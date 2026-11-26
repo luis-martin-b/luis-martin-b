@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About me
 
-I'm an Industrial Management Engineer from [Universitat Politècnica de València](https://www.upv.es), currently doing an MSc in Data Analytics for Engineering at [Tecnun – Universidad de Navarra](https://www.tecnun.es). I also spent an Erasmus semester at [Eindhoven University of Technology (TU/e)](https://www.tue.nl).
+I'm an Industrial Management Engineer from [Universidad Politécnica de Valencia](https://www.upv.es), currently doing an MSc in Data Analytics for Engineering at [Tecnun – Universidad de Navarra](https://www.tecnun.es). I also spent an Erasmus semester at [Eindhoven University of Technology (TU/e)](https://www.tue.nl).
 
 ## 💡 What I'm into
 
