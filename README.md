@@ -1,10 +1,8 @@
 <div align="center">
 
-### Hi, I'm Luis 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Hi,%20I'm%20Luis%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Industrial%20Management%20Engineer%20%C2%B7%20Data,%20AI%20%26%20Processes&descSize=18&descAlignY=55" width="100%"/>
 
-*Industrial Management Engineer · Data, AI & Processes*
-
-<a href="https://www.linkedin.com/in/luis-martín-barrera/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/luis-mart%C3%ADn-barrera/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:luismartinbarrera22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
